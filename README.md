@@ -71,4 +71,4 @@
 </body>
 </table>
 
-One of my student (Beyza Komiş) posted a project study and her challanges on Medium in 2025: <a href="https://medium.com/@beyzakomis/designing-and-creating-an-etl-pipeline-a-hybrid-cloud-pipeline-from-aws-to-local-hadoop-with-7a831ef848a3">Designing and Creating an ETL Pipeline: A Hybrid Cloud Pipeline from AWS to Local Hadoop With Apache NiFi</a>. Good job!
+One of my student (Beyza Komiş) posted project 4 study and challanges on Medium in 2025: <a href="https://medium.com/@beyzakomis/designing-and-creating-an-etl-pipeline-a-hybrid-cloud-pipeline-from-aws-to-local-hadoop-with-7a831ef848a3">Designing and Creating an ETL Pipeline: A Hybrid Cloud Pipeline from AWS to Local Hadoop With Apache NiFi</a>. Good job!
