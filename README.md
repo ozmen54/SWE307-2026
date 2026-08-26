@@ -22,7 +22,7 @@
         <b>e)</b> Your plot should be <i>line</i> type and the line color should be <i>dark brown</i>. Use <i>grid</i> in your graph.<br>
         <b>f)</b> Block diagram: <a href = "https://github.com/ozmen54/SWE307-2025/blob/main/pro1block.png">Figure 1</a>. Example output: <a href = "https://github.com/ozmen54/SWE307-2025/blob/main/pro1.png">Figure 2</a> .
       </td>
-      <td>9 Oct 2025 <br></td>
+      <td>8 Oct 2026 <br></td>
       <td><a href="pro1_2025.pdf">Project1</a></td>
     </tr>
     <tr>
@@ -35,7 +35,7 @@
         <b>d)</b> Show that the user image file uploading and displaying them on the web page work. <br>
         <b>e)</b> Show that your application runs as expected.
       </td>
-      <td>6 Nov 2025<br></td>
+      <td>5 Nov 2026<br></td>
       <td><a href="pro2_2025.pdf">Project2</a></td>
     </tr>
     <tr>
@@ -50,7 +50,7 @@
         <b>f)</b> When a web request comes to controller endpoint, the Spark routine must answer this as described in the Project documentation. <br>
         <b>g)</b> There will be a single web page on your sytem that shows the similar output as you did on Project 2, however in this time there will be another column that shows instantaneous total expens amount. <br> 
       </td>
-      <td>27 Nov 2025<br></td>
+      <td>26 Nov 2026<br></td>
       <td><a href="pro3-25.pdf">Project3</a></td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@
         <b>f)</b> Create the pipeline and fetch the data from differen sources to your local computer and store them into Hive DB in JSON format.<br>
         <b>g)</b> Do some anaylitacal work using HiveQL queries with joins and show: "1) who (with name) spends how much for food or appliences?", "2) Which department made the most purchases?", "3) How spent the most?"<br>
       </td>
-      <td>25 Dec 2025<br></td>
+      <td>24 Dec 2026<br></td>
       <td><a href="pro4.pdf">Project4</a></td>
     </tr>
 </body>
