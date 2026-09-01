@@ -13,7 +13,7 @@
   <body>
     <tr>
       <td>1</td>
-      <td><b>Data visualization.</b></td>
+      <td><b>Data visualization</b></td>
       <td>
         <b>a)</b> Every person in the group must install GraalVM and MongoDB. <br> 
         <b>b)</b> Groups will use the attached CSV file as data source. Use only one column in this study, such as first group will use only <i>Col-1</i> data.  This file must manually be imported to MongoDB in the beginning.<br>
@@ -27,7 +27,7 @@
     </tr>
     <tr>
       <td>2</td>
-      <td><b>Redis, Hadoop-HDFS, Ollama.</b></td>
+      <td><b>Redis, Hadoop-HDFS, Ollama</b></td>
       <td>
         <b>a)</b> Employee and department data will be read from the database via Redis (see <a href="https://github.com/ozmen54/SWE307-2025/blob/main/pro2.png">Figure 1</a>). Implement CRUD operations on emp table of scott database. <br>
         <b>b)</b> Employee images will be fetched from HDFS (use these <a href="images.zip">example image files</a>).<br>
