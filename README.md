@@ -23,7 +23,7 @@
         <b>f)</b> Block diagram: <a href = "https://github.com/ozmen54/SWE307-2025/blob/main/pro1block.png">Figure 1</a>. Example output: <a href = "https://github.com/ozmen54/SWE307-2026/blob/main/pro1.png">Figure 2</a> .
       </td>
       <td>8 Oct 2026 <br></td>
-      <td><a href="pro1_2026.pdf">Project1</a></td>
+      <td><a href="pro1_26.pdf">Project1</a></td>
     </tr>
     <tr>
       <td>2</td>
@@ -36,7 +36,7 @@
         <b>e)</b> Show that your application runs as expected.
       </td>
       <td>5 Nov 2026<br></td>
-      <td><a href="pro2_2026.pdf">Project2</a></td>
+      <td><a href="pro2_26.pdf">Project2</a></td>
     </tr>
     <tr>
       <td>3</td>
