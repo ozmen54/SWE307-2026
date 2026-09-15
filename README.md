@@ -55,7 +55,7 @@
     </tr>
      <tr>
       <td>4</td>
-      <td><b>RAG-AI Platform</b></td>
+      <td><b>RAG-AI Platform with vector DB </b></td>
       <td>
         <b>a)</b> You are going to implement AI agent system with RAG and vector DB shown in <a href="https://github.com/ozmen54/SWE307-2026/blob/main/pro-4a.pdf">Figure 1</a>. <br>
         <b>b)</b>  <br>
@@ -66,7 +66,7 @@
         <b>g)</b> <br>
       </td>
       <td>10 Dec 2026<br></td>
-      <td><a href="pro4a-26.pdf">Project4</a></td>
+      <td><a href="pro4a-26.pdf">Project 4</a></td>
     </tr>
     <tr>
       <td>5</td>
@@ -81,7 +81,7 @@
         <b>g)</b> Do some anaylitacal work using HiveQL queries with joins and show: "1) who (with name) spends how much for food or appliences?", "2) Which department made the most purchases?", "3) How spent the most?"<br>
       </td>
       <td>24 Dec 2026<br></td>
-      <td><a href="pro4-26.pdf">Project4</a></td>
+      <td><a href="pro4-26.pdf">Project 5</a></td>
     </tr>
 </body>
 </table>
