@@ -58,12 +58,12 @@
       <td><b>RAG-AI Platform with vector DB </b></td>
       <td>
         <b>a)</b> You are going to implement AI agent system with RAG and vector DB shown in <a href="https://github.com/ozmen54/SWE307-2026/blob/main/pro-4a.pdf">Figure 1</a>. <br>
-        <b>b)</b>  <br>
-        <b>c)</b> <br>
-        <b>d)</b> <br>
-        <b>e)</b> <br>
-        <b>f)</b> <br>
-        <b>g)</b> <br>
+        <b>b)</b> To be written. <br>
+        <b>c)</b> To be written. <br>
+        <b>d)</b> To be written. <br>
+        <b>e)</b> To be written. <br>
+        <b>f)</b> To be written. <br>
+        <b>g)</b> To be written. <br>
       </td>
       <td>10 Dec 2026<br></td>
       <td><a href="pro4a-26.pdf">Project4</a></td>
