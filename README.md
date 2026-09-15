@@ -66,7 +66,7 @@
         <b>g)</b> <br>
       </td>
       <td>10 Dec 2026<br></td>
-      <td><a href="pro4a-26.pdf">Project 4</a></td>
+      <td><a href="pro4a-26.pdf">Project4</a></td>
     </tr>
     <tr>
       <td>5</td>
@@ -81,7 +81,7 @@
         <b>g)</b> Do some anaylitacal work using HiveQL queries with joins and show: "1) who (with name) spends how much for food or appliences?", "2) Which department made the most purchases?", "3) How spent the most?"<br>
       </td>
       <td>24 Dec 2026<br></td>
-      <td><a href="pro4-26.pdf">Project 5</a></td>
+      <td><a href="pro4-26.pdf">Project5</a></td>
     </tr>
 </body>
 </table>
