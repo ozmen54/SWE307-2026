@@ -35,7 +35,7 @@
         <b>d)</b> Show that the user image file uploading and displaying them on the web page work. <br>
         <b>e)</b> Show that your application runs as expected.
       </td>
-      <td>5 Nov 2026<br></td>
+      <td>22 Oct 2026<br></td>
       <td><a href="pro2_26.pdf">Project2</a></td>
     </tr>
     <tr>
@@ -50,11 +50,26 @@
         <b>f)</b> When a web request comes to controller endpoint, the Spark routine must answer this as described in the Project documentation. <br>
         <b>g)</b> There will be a single web page on your sytem that shows the similar output as you did on Project 2, however in this time there will be another column that shows instantaneous total expens amount. <br> 
       </td>
-      <td>3 Dec 2026<br></td>
+      <td>26 Nov 2026<br></td>
       <td><a href="pro3-26.pdf">Project3</a></td>
     </tr>
-    <tr>
+     <tr>
       <td>4</td>
+      <td><b>RAG-AI Platform</b></td>
+      <td>
+        <b>a)</b> You are going to implement AI agent system with RAG and vector DB shown in <a href="https://github.com/ozmen54/SWE307-2026/blob/main/pro-4a.pdf">Figure 1</a>. <br>
+        <b>b)</b>  <br>
+        <b>c)</b> <br>
+        <b>d)</b> <br>
+        <b>e)</b> <br>
+        <b>f)</b> <br>
+        <b>g)</b> <br>
+      </td>
+      <td>10 Dec 2026<br></td>
+      <td><a href="pro4a-26.pdf">Project4</a></td>
+    </tr>
+    <tr>
+      <td>5</td>
       <td><b>ETL with NiFi</b></td>
       <td>
         <b>a)</b> You are going to implement ETL system shown in <a href="https://github.com/ozmen54/SWE307-2026/blob/main/pro-4.pdf">Figure 1</a>. <br>
