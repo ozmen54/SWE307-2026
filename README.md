@@ -13,7 +13,7 @@
   <body>
     <tr>
       <td>1</td>
-      <td><b>Data visualization</b></td>
+      <td><b>Data visualization with R</b></td>
       <td>
         <b>a)</b> Every person in the group must install GraalVM and MongoDB. <br> 
         <b>b)</b> Groups will use the attached CSV file as data source. Use only one column in this study, such as first group will use only <i>Col-1</i> data.  This file must manually be imported to MongoDB in the beginning.<br>
