@@ -72,7 +72,7 @@
       <td>5</td>
       <td><b>ETL with NiFi</b></td>
       <td>
-        <b>a)</b> You are going to implement ETL system shown in <a href="https://github.com/ozmen54/SWE307-2026/blob/main/pro-4.pdf">Figure 1</a>. <br>
+        <b>a)</b> You are going to implement ETL system shown in <a href="https://github.com/ozmen54/SWE307-2026/blob/main/pro-5.pdf">Figure 1</a>. <br>
         <b>b)</b> Data sources will be two different EC2 instances on AWS or VMs on Azure: One will host MongoDB, and theother will host MySQL. The data will be provided here as cvs files: <a href="expense.csv">expense.csv</a>, <a href="emp.csv">emp.csv</a>, <a href="dept.csv">dept.csv</a>. <br>
         <b>c)</b> You need to install Apache-NiFi, Apache-Hive and Apache-Hodoop-HDFS. <br>
         <b>d)</b> Transfer and load the data to the databases using NiFi or other methods.<br>
@@ -81,7 +81,7 @@
         <b>g)</b> Do some anaylitacal work using HiveQL queries with joins and show: "1) who (with name) spends how much for food or appliences?", "2) Which department made the most purchases?", "3) How spent the most?"<br>
       </td>
       <td>24 Dec 2026<br></td>
-      <td><a href="pro4-26.pdf">Project5</a></td>
+      <td><a href="pro5-26.pdf">Project5</a></td>
     </tr>
 </body>
 </table>
