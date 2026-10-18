@@ -29,11 +29,11 @@
       <td>2</td>
       <td><b>Redis, Hadoop-HDFS, LLM server</b></td>
       <td>
-        <b>a)</b> RDBM data will be read from the database via Redis (see <a href="https://github.com/ozmen54/SWE307-2025/blob/main/pro2.png">Figure 1</a>). Implement CRUD operations on emp table of scott database. <br>
-        <b>b)</b> Employee images will be fetched from HDFS (use these <a href="images.zip">example image files</a>).<br>
-        <b>c)</b> There will be a single web page, on this page the information will be displayed in a table using the JOIN operation. Information to display: employee name, manager name, salary, commission, department (see <a href="https://github.com/ozmen54/SWE307-2025/blob/main/Screenshot.png">Figure 2</a>). <br>
-        <b>d)</b> Show that the user image file uploading and displaying them on the web page work. <br>
-        <b>e)</b> Show that your application runs as expected.
+        <b>a)</b> RDBM data will be read from the database via Redis (see <a href="https://github.com/ozmen54/SWE307-2025/blob/main/pro2.png">Figure 1</a>). Implement CRUD operations using REDIS cache. <br>
+        <b>b)</b> Application images (or files) will be fetched from HDFS.<br>
+        <b>c)</b> There will be two web pages: 1) For application, 2) For LLM chat server. <br>
+        <b>d)</b> Show that the application image files uploading or displaying. <br>
+        <b>e)</b> Show that chat part of your application runs as expected.
       </td>
       <td>22 Oct 2026<br></td>
       <td><a href="pro2_26.pdf">Project2</a></td>
