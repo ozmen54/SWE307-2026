@@ -36,7 +36,7 @@
         <b>e)</b> Show that chat part of your application runs as expected.
       </td>
       <td>22 Oct 2026<br></td>
-      <td><a href="pro2_26.pdf">Project2</a></td>
+      <td><a href="pro2_2026.pdf">Project2</a></td>
     </tr>
     <tr>
       <td>3</td>
