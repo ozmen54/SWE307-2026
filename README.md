@@ -40,7 +40,7 @@
     </tr>
     <tr>
       <td>3</td>
-      <td><b>Kafka-Spark-Cassandra Data Path</b></td>
+      <td><b>Kafka-Spark-Cassandra Data Pipeline</b></td>
       <td>
         <b>a)</b> You are going to implement a big data system shown in <a href="https://github.com/ozmen54/SWE307-2026/blob/main/pro-3.pdf">Figure 1</a>. <br>
         <b>b)</b> You need to create a console application that genarates random data as described in the project document (<a href="https://github.com/ozmen54/SWE307-2026/blob/main/pro3-26.pdf">Project 3</a>). You can implement this server using any language as you wish. <br>
