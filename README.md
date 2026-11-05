@@ -49,6 +49,7 @@
         <b>e)</b> You will write some Spark scripts using Scala or Python that will fetch records on Kafka topics periodically in a loop. Every new record must be stored on Cassandra. <br>
         <b>f)</b> When a web request comes to controller endpoint, the Spark routine must answer this as described in the Project documentation. <br>
         <b>g)</b> There will be a single web page on your sytem that shows the similar output as you did on Project 2, however in this time there will be another column that shows instantaneous total expens amount. <br> 
+        <b>PS:</b> Do not use container technologies (like Docker) in this project. 15 points deduction will be applied.
       </td>
       <td>26 Nov 2026<br></td>
       <td><a href="pro3-26.pdf">Project3</a></td>
